@@ -1,0 +1,13 @@
+argparse
+bcrypt
+argon2-cffi
+dnslib
+scapy
+npcap
+nmap
+cryptography
+sublist3r
+itertools
+hashlib
+bcrypt
+argon2
