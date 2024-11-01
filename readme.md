@@ -1,12 +1,13 @@
 # toolbox_project:
 
-    This toolbox project contains several scripts to use for pentesting. To start using the toolbox please open the main meny. from the meny you can navigate to whatever tool you want to use.
-    It is of course also possible to use the tools seperately without the main meny. the toolbox is made to be usen in Windows enviroment but might work for Linux in som cases as well.
+    This toolbox project contains several scripts to use for pentesting. To start using the toolbox please open the main meny.
+    from the meny you can navigate to whatever tool you want to use. It is of course also possible to use the tools seperately without the main meny.
+    the toolbox is made to be used in Windows enviroment but should work for Linux in most cases as well.
     all the tools can be usen with flags for one-line execution but also has menys for themselves.
 
 ## Dependencies:
 
-    Please ensure that all dependencies are installed before trying to use the toolbox. the Dependencies can be found in the requirements.txt file.
+    Please ensure that all dependencies are installed before trying to use the toolbox. the dependencies can be found in the requirements.txt file.
 
     Installation on Windows:
 
